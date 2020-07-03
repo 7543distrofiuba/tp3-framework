@@ -20,7 +20,7 @@ Primero debemos clonar el repositorio del TP
     git clone git@github.com:7543distrofiuba/tp3-framework.git
     cd tp3-framework
 
-El TP requiere la libraría `pox` para correr. Esta está incluida como un submodulo del repositorio. Para inicializarla deben correr el siguiente comando.
+El TP requiere la librería `pox` para correr. Esta está incluida como un submodulo del repositorio. Para inicializarla deben correr el siguiente comando.
 
     git submodule update --init --recursive
 
